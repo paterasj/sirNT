@@ -5,6 +5,6 @@ MATLAB packages used for performing data fit and thermodynamic calculations on p
 
 CovFit() function for fitting single strain SIR model and outputting change in free energy calcultions.
 
-TwinFit() function for fitting the augmented multistrain SIR model.
+MultiFit() function for fitting the augmented multistrain SIR model (two strains).
 
 Reach out to author paterasj@vcu.edu with any questions.
