@@ -3,4 +3,8 @@
 
 MATLAB packages used for performing data fit and thermodynamic calculations on population, infection, and death data.
 
+CovFit() function for fitting single strain SIR model and outputting change in free energy calcultions.
+
+TwinFit() function for fitting the augmented multistrain SIR model and outputting change in free energy calcultions.
+
 Reach out to author paterasj@vcu.edu with any questions.
